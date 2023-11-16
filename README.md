@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-About Me 👩‍💻 <br>I'm Bryan from Singapore 🇸🇬<br><br>- 🔭 I’m an Undergraduate in Singapore Management University<br>- 📚 I'm pursuing a Bachelor's Degree in Information Systems, majoring in Digitalization / Cloud Solutions<br>- ⚡ I'm highly passionate towards Software Development
+About Me 👩‍💻 <br>I'm Bryan from Singapore 🇸🇬<br><br>- 🔭 I’m an Undergraduate in Singapore Management University<br>- 📚 I'm pursuing a Bachelor's Degree in Information Systems, majoring in Digitalization & Cloud Solutions<br>- ⚡ I'm highly passionate towards Software Development
 
 
 ## 🌐 Socials:
